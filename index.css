@@ -9,5 +9,5 @@ body {
   max-width: 320px;	/* Tamaño (máximo) de ancho de las imágenes */
   margin: auto;
   border:10px solid black;
-  border-radius:10%;
+  border-radius:7%;
 }
