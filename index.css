@@ -8,4 +8,5 @@ body {
 .slider {
   max-width: 320px;	/* Tamaño (máximo) de ancho de las imágenes */
   margin: auto;
+  display:flex;
 }
