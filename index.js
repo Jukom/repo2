@@ -1,4 +1,6 @@
 /* Activación del slider */
 $(document).ready(function() {
-  $('.slider').slick();
+  $('.slider').slick({
+    autoplay:true,
+    autoplaySpeed:1000});
 });
